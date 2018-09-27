@@ -1,6 +1,13 @@
-# process_lifecycle
+# Processes and Lifecycles
+
 List of Incident Response and Threat Intelligence Processes and Lifecycles
 
-# Threat Intelligence
+## Incident Response
 
-[The 6 Steps in the Intelligence Cycle](6_steps_intelligence_cycle.md)
+* [NIST](nist-nist.sp.800-61r2.md)
+
+
+## Threat Intelligence
+
+* [6 Steps Intelligence Cycle](6_steps_intelligence_cycle.md)
+* [F3EAD](F3EAD.md)
