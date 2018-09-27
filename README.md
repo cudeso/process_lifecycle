@@ -10,4 +10,4 @@ List of Incident Response and Threat Intelligence Processes and Lifecycles
 ## Threat Intelligence
 
 * [6 Steps Intelligence Cycle](6_steps_intelligence_cycle.md)
-* [F3EAD](F3EAD.md)
+* [F3EAD](f3ead.md)
